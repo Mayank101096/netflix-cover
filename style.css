@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+ }
+.header-logo
+{
+    height: 50px;
+}
+.mid-section
+{
+    padding-top: 50px;
+    color: white;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+
+.mid-section-profile
+{   
+    display: flex;
+    justify-content: center;
+        
+}
+.mid-section-profile-image{
+    height: 150px;
+    width: 150px;
+    margin: 10PX;
+     
+    
+}
+.mid-section-button-1{
+    color: rgb(255, 255, 255);
+    background-color: rgba(19, 15, 15, 0.61);
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 12px;
+}
+
+p{
+    text-align: center;
+    font-size: 10px ;
+}
